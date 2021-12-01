@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ZonaEgg</string>
+    <string name="sign_in_with_google">Sign in With Google</string>
+    <string name="example">Example</string>
+    <string name="id">ID</string>
+    <string name="name">Name</string>
+    <string name="email_address">Email address</string>
+    <string name="sign_out">Sign out</string>
+    <string name="webClientId">790766193412-qafs7m1dsv8pmh6i8tht8nr8dqcr7lrk.apps.googleusercontent.com</string>
+</resources>
